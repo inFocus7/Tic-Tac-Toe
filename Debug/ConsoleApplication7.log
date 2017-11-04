@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\srv_veralab.utrgv\documents\visual studio 2015\projects\consoleapplication7\source.cpp(49): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\srv_veralab.utrgv\documents\visual studio 2015\projects\consoleapplication7\source.cpp(54): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\srv_veralab.utrgv\documents\visual studio 2015\projects\consoleapplication7\source.cpp(69): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\srv_veralab.utrgv\documents\visual studio 2015\projects\consoleapplication7\source.cpp(74): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+  ConsoleApplication7.vcxproj -> C:\Users\srv_veralab.utrgv\Documents\Visual Studio 2015\Projects\ConsoleApplication7\Debug\ConsoleApplication7.exe
